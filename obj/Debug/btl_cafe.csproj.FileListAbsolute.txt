@@ -1,0 +1,31 @@
+C:\Users\vuong\source\repos\btl_cafe\btl_cafe\bin\Debug\btl_cafe.exe.config
+C:\Users\vuong\source\repos\btl_cafe\btl_cafe\bin\Debug\btl_cafe.exe
+C:\Users\vuong\source\repos\btl_cafe\btl_cafe\bin\Debug\btl_cafe.pdb
+C:\Users\vuong\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.csproj.AssemblyReference.cache
+C:\Users\vuong\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.fAdmin.resources
+C:\Users\vuong\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.login.resources
+C:\Users\vuong\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.Properties.Resources.resources
+C:\Users\vuong\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.QuanlyQuanCafe.resources
+C:\Users\vuong\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.Thongtincanhan.resources
+C:\Users\vuong\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.csproj.GenerateResource.cache
+C:\Users\vuong\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.csproj.CoreCompileInputs.cache
+C:\Users\vuong\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.exe
+C:\Users\vuong\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.pdb
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\bin\Debug\btl_cafe.exe.config
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\bin\Debug\btl_cafe.exe
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\bin\Debug\btl_cafe.pdb
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\bin\Debug\EntityFramework.dll
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\bin\Debug\EntityFramework.xml
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.csproj.AssemblyReference.cache
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.fAdmin.resources
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.login.resources
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.Properties.Resources.resources
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.QuanlyQuanCafe.resources
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.Thongtincanhan.resources
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.csproj.GenerateResource.cache
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.csproj.CoreCompileInputs.cache
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.csproj.CopyComplete
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.exe
+C:\Users\mediamart yen thuy\source\repos\btl_cafe\btl_cafe\obj\Debug\btl_cafe.pdb
